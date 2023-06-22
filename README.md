@@ -12,8 +12,7 @@ For further information see e.g. [apache tutorial](https://ubuntu.com/tutorials/
 ## Live Versions
 
 Live version can be found here:
-[Stable Version](https://tadeaustria.github.io/satisfactory-calculator/calc.html)
-[Experimental Version](http://barthler.ddns.net/satisfactory-calculator-experimental/calc.html)
+[Stable Version](https://crwolff.github.io/satisfactory-calculator/calc.html)
 
 ## Content
 
